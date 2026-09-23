@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./github-banner-final-2.png" width="100%" alt="GitHub Banner">
 </p>
-<p align="center">
-  <img src="./github-banner-final-2.png" width="100%" alt="GitHub Banner">
-</p>
 
 <h1 align="center">Hi, I'm Tim 👋</h1>
 
