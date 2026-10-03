@@ -2,10 +2,10 @@
   <img src="./github-banner-final-2.png" width="100%" alt="GitHub Banner">
 </p>
 
-<h1 align="center">Hi, I'm Tim 👋</h1>
+<h1 align="center">Hi, I'm Tim </h1>
 
 <p align="center">
-  Fachinformatiker für Systemintegration • Homelab • Linux • Networking
+  Fachinformatiker für Systemintegration • Linux • Networking
 </p>
 
 ---
