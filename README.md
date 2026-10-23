@@ -29,9 +29,9 @@ Ein webbasiertes IT-Management-System für Inventar, Wartungen und Aufgaben. Das
 
 **Technik:** TypeScript · React · Node.js · PostgreSQL · Docker · Caddy
 
-[🌐 Projektseite ansehen](https://itmscore.de/) · [🚀 Anwendung öffnen](https://app.itmscore.de/)
+[🌐 Projektseite ansehen](https://itmscore.de/) · [🚀 Anwendung öffnen](https://app.itmscore.de/) · [📦 Website-Repository öffnen](https://github.com/tkrauseweb/itmscore-website)
 
-> Der Quellcode von ITMScore ist nicht öffentlich.
+> Dieses Repository enthält ausschließlich die öffentliche Projekt- und Portfolioseite. Die geschützte ITMScore-Anwendung und ihre Betriebsdaten bleiben privat.
 
 ---
 
